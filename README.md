@@ -48,15 +48,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
   
-![Nirvana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirvana-xo&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirvana-xo&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirvana-xo&theme=radical&hide_border=true)
 
 </div>
 
