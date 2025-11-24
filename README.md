@@ -51,8 +51,13 @@
 ## 📊 Most Used Languages
 
 <div align="center">
-  
-<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvana-xo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+| **Language** | **Usage** |
+|:------------:|:---------:|
+| Python | ████████████████████ 80% |
+| Bash/Shell | ████████░░░░░░░░░░░░ 40% |
+| JavaScript | ██████░░░░░░░░░░░░░░ 30% |
+| C++ | ████░░░░░░░░░░░░░░░░ 20% |
 
 </div>
 
