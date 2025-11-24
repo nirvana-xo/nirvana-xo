@@ -52,7 +52,7 @@
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirvana-xo&layout=default&theme=radical&hide_border=true&langs_count=8)
+<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvana-xo&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
