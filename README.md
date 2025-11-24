@@ -52,7 +52,7 @@
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirvana-xo&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirvana-xo&layout=compact&theme=default&hide_border=false)
 
 </div>
 
@@ -85,7 +85,7 @@
 ## 💼 What I'm Working On
 - 📚 Expanding knowledge in **SIEM systems**, **log analysis**, **Digital Forensics and Incidence Response**
 - 🛡️ Contributing to **open-source security projects**
-- 🎯 Preparing for **security certifications** (CNSP, Comptia Security+, SC 200, path)
+- 🎯 Preparing for **security certifications** (CNSP, Comptia Security+, SC-200)
 
 ---
 
@@ -104,12 +104,6 @@
   
 ### 💡 *"Security is not a product, but a process."* - Bruce Schneier
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=800&lines=SOC+Analyst+%7C+Threat+Hunter;Digital+Forensics+%7C+Incident+Response;Security+Automation+%7C+SIEM+Expert;Protecting+Digital+Assets+24%2F7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=SOC+Analyst+%7C+Threat+Hunter;Digital+Forensics+%7C+Incident+Response;Security+Automation+%7C+SIEM+Expert)](https://git.io/typing-svg)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
