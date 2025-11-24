@@ -72,37 +72,6 @@
 
 ---
 
-## 📊 Most Used Languages
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="50%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" />
-<br><strong>Bash</strong>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />
-<br><strong>C++</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 💼 What I'm Working On
 - 📚 Expanding knowledge in **SIEM systems**, **log analysis**, **Digital Forensics and Incidence Response**
 - 🛡️ Contributing to **open-source security projects**
