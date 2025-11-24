@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hey, I'm Richard Nti
+# 👋 Hey, I'm Richard
 
-### 🔐 Security Enthusiast | 💻 Developer | 🌐 Network Explorer
+### 🔐 Digital Forensics | 💻 Security Operations | 🌐 Network Explorer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nirvana-xo&color=blueviolet&style=flat-square)
 
@@ -108,7 +108,7 @@
   
 ### 💡 *"Security is not a product, but a process."* - Bruce Schneier
 
-![Snake animation](https://raw.githubusercontent.com/nirvana-xo/nirvana-xo/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=800&lines=SOC+Analyst+%7C+Threat+Hunter;Digital+Forensics+%7C+Incident+Response;Security+Automation+%7C+SIEM+Expert;Protecting+Digital+Assets+24%2F7)](https://git.io/typing-svg)
 
 </div>
 
